@@ -60,12 +60,12 @@ Les fonctionnalité comme 🔍 et 🎤 ne sont pas actives.
 Pour exécuter une demo, procedez comme suit:  
 
 1. Clonez ce dépôt :  
-`        `  
+`git clone https://github.com/elevation98/projet_data354.git`  
 2. Accédez au dossier de démonstration souhaité :  
 `cd PS C:\Users\user\Desktop\Data354> `  
 
 3. Installez les dépendances requises :  
-`pip install -r requirements.text`  
+`pip install -r requirements.txt`  
 
 4. Créez un fichier basé sur le fichier fourni : modifiez le fichier si nécessaire pour inclure les clés API ou les paramètres de configuration nécessaires..env.env.example  
 

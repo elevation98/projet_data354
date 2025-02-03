@@ -67,7 +67,8 @@ Pour exécuter une demo, procedez comme suit:
 3. Installez les dépendances requises :  
 `pip install -r requirements.txt`  
 
-4. Créez un fichier basé sur le fichier fourni : modifiez le fichier si nécessaire pour inclure les clés API ou les paramètres de configuration nécessaires..env.env.example  
+4. Créez un fichier basé sur le fichier fourni : modifiez le fichier si nécessaire  
+ pour inclure les clés API ou les paramètres de configuration nécessaires..env.env.example  
 
 `cp .env.example .env`  
 
@@ -77,6 +78,7 @@ Pour exécuter une demo, procedez comme suit:
  `streamlit run stream.py `  
 
 
-L’interface utilisateur de votre chatbot de démonstration   devrait maintenant être opérationnelle dans votre navigateur !  
+L’interface utilisateur de votre chatbot de démonstration   
+devrait maintenant être opérationnelle dans votre navigateur !  
 
 
